@@ -17,8 +17,7 @@
 ## 📌 Закрепленные проекты:
 
 - 🔹 [**Резюме**](https://github.com/Mr-Dron/resume) – моё резюме в Markdown
-- 🔹 **Telegram-бот** – [репозиторий будет тут]
-
+- 🔹 **Telegram-бот** – (https://github.com/Mr-Dron/telegram_bot)
 ## 📫 Контакты:
 - ✉️ Email: rusakovich_2000@mail.ru
 - 💬 Telegram: Rusya352
